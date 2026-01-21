@@ -15,4 +15,4 @@ to improve productivity.
 
 ## Learning Outcome
 - Practical Python usage
-- Writing reusable scripts
+- Writing reusable scripts 
