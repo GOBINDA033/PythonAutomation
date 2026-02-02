@@ -1,4 +1,4 @@
-# Here we are create list 
+# Here we are creating list 
 Language=["Java","Python","C Language","javaScript"]
 Language2=["Go","Ruby","Swift"]
 print(Language2)
