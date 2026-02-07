@@ -11,7 +11,7 @@ to improve productivity.
 ## Tech Used
 - Python
 - File Handling
-- Automation Logic
+- Automation Logic 
 
 ## Learning Outcome
 - Practical Python usage
