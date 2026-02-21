@@ -6,7 +6,7 @@ to improve productivity.
 ## Features 
 - File organization based on extensions 
 - Automated reports
-- Easy-to-run scripts
+- Easy-to-run scripts 
 
 ## Tech Used
 - Python
