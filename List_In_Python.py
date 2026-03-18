@@ -1,7 +1,7 @@
 # Here we are creating list 
 Language=["Java","Python","C Language","javaScript"]
 Language2=["Go","Ruby","Swift"]
-print(Language2)
+print(Language2) 
 
 #we can create list for different data types
 mised_list=["Gobinda",22,True]
